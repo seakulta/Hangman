@@ -29,7 +29,8 @@ Each letter of the randomly picked word is represented by underscores in the var
 underscored = _ _ _ _ _ _ _ _ _
 
 # Gallows
-```gallows = ['''
+```
+gallows = ['''
   +---+
   |   |
       |
