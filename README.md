@@ -26,12 +26,16 @@ or
 * Unzip the folder 
 * Run the [Hangman.py] program
 
+## Contributing
+[Issue Tracker]
+
 ## License
 [License]
 
 [Hangman.py]: https://github.com/seakulta/Hangman/edit/main/Hangman.py
 [alpha.txt]: https://github.com/seakulta/Hangman/blob/main/alpha.txt
 [download the zip]: https://github.com/seakulta/Hangman/archive/refs/heads/main.zip
+[Issue Tracker]: https://github.com/seakulta/Hangman/issues
 [License]: https://github.com/seakulta/Hangman/edit/main/LICENSE
 
 
