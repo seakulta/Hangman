@@ -14,8 +14,8 @@ You will need [alpha.txt] to run the program
 
 * Clone the program and its dependances
 ```
-https://github.com/seakulta/Hangman/edit/main/Hangman.py
-https://github.com/seakulta/Hangman/edit/main/alpha.txt
+git clone https://github.com/seakulta/Hangman/edit/main/Hangman.py
+git clone https://github.com/seakulta/Hangman/edit/main/alpha.txt
 ```
 * Add them into the same folder
 * Run the program [Hangman.py]
@@ -24,7 +24,7 @@ or
 
 * [download the zip]
 * Unzip the folder 
-* Run the Hangman.py program
+* Run the [Hangman.py] program
 
 
 [Hangman.py]: https://github.com/seakulta/Hangman/edit/main/Hangman.py
