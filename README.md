@@ -1,2 +1,8 @@
 # Hangman
-A hangman python program for my python class
+---
+## Description
+---
+This program is design to allow a user to play hangman with the computer
+## Prerequisites 
+* [alpha.txt]
+[alpha.txt]: 
