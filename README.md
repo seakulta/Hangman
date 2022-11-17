@@ -6,12 +6,12 @@
 This program is design to allow a user to play hangman with the computer
 
 ## Prerequisites 
----
+
 You will need [alpha.txt] to run the program
 
 
 ## Installation
----
+
 Clone the project and its dependances into a folder
 ```
 https://github.com/seakulta/Hangman/edit/main/Hangman.py
