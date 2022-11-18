@@ -99,7 +99,7 @@ Creates a list of sellectable ACII art pictures which can be sellected depending
 >  /|   |
 >       |
 >       |
-> =========
+> \=\=\=\=\=\=\=\=\=
 
 # SCORE AND GRAVE
 ```
