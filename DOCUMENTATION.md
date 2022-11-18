@@ -93,12 +93,12 @@ Creates a list of sellectable ACII art pictures which can be sellected depending
 #### Input
 >gallows[3] 
 #### Output
-> +---+
->   |   |
->   O   |
->  /|   |
->       |
->       |
+> +---+\
+>   |   |\
+>   O   |\
+>  /|   |\
+>       |\
+>       |\
 > \=\=\=\=\=\=\=\=\=
 
 # SCORE AND GRAVE
