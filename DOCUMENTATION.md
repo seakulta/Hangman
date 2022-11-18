@@ -18,9 +18,9 @@ if word != word_bank[-1]:
 2. Removes the \n character from the end of the word
 ### Example
 #### Input
-    word = random.choice(word_bank)`
+    word = random.choice(word_bank)
 #### Output
-    word = WHOLESOME`
+    word = WHOLESOME
 
 # WORD HIDER
 ```
@@ -30,9 +30,9 @@ underscored = "_" * len(word)
 Each letter of the randomly picked word is represented by underscores in the variable called underscored
 ### Example
 #### Input
-    word = WHOLESOME`
+    word = WHOLESOME
 #### Output
-    underscored = _ _ _ _ _ _ _ _ _`
+    underscored = _ _ _ _ _ _ _ _ _
 
 # Gallows
 ```
@@ -91,7 +91,7 @@ gallows = ['''
 Creates a list of sellectable ACII art pictures which can be sellected depending on number of wrong guesses
 ### Example
 #### Input
-    gallows[3]`
+    gallows[3]
 #### Output
 ```
    +---+
@@ -167,6 +167,6 @@ else:
 Checks the number od strikes to test if you lost the game if so it displays a looser message if not it display a win message
 ### Example
 #### Input
-    strikes = 6`
+    strikes = 6
 #### Output
-    You lose lmao!`
+    You lose lmao!
