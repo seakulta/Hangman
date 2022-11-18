@@ -30,7 +30,7 @@ underscored = "_" * len(word)
 Each letter of the randomly picked word is represented by underscores in the variable called underscored
 ### Example
 #### Input
->WHOLESOME
+>word = WHOLESOME
 #### Output
 >underscored = _ _ _ _ _ _ _ _ _
 
