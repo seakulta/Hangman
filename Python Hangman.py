@@ -122,4 +122,4 @@ if strikes == 6:
 else:
     print("You win!")
 main.py
-Displaying main.py.
+Displaying main.py
